@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     description: "Контакты Ирины Александровны Малько — директора Центра образования «Приоритет».",
   },
   icons: {
-    icon: "/assets/favicon.svg",
+    icon: "/IrinaMalko/assets/favicon.svg",
   },
 };
 

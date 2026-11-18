@@ -195,7 +195,7 @@ export default function Home() {
                       <path d="M5 12h14M12 5l7 7-7 7" />
                     </svg>
                   </a>
-                  <a className="button button-outline" href="/assets/irina-malko.vcf" download="Ирина_Малько.vcf">
+                  <a className="button button-outline" href="/IrinaMalko/assets/irina-malko.vcf" download="Ирина_Малько.vcf">
                     Сохранить контакт{" "}
                     <svg className="arrow-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden="true">
                       <path d="M12 3v14m-5-5 5 5 5-5M4 20h16" />
@@ -216,7 +216,7 @@ export default function Home() {
               <div className="hero-photo-wrapper" ref={heroPhotoWrapperRef}>
                 <img
                   ref={heroImageRef}
-                  src="/assets/irina-malko.webp"
+                  src="/IrinaMalko/assets/irina-malko.webp"
                   alt="Ирина Александровна Малько на официальном мероприятии"
                   width="1280"
                   height="1920"
